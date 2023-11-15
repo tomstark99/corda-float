@@ -1,0 +1,13 @@
+# generated certificates
+**/*.jks
+
+# jar files
+**/*.jar
+
+# run-time dirs
+logs/
+
+# run-time files
+network-parameters
+nodeInfo*
+firewall-process-id
